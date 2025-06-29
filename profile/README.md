@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="../assets/logo.png" alt="Pulzar Logo" style="max-width: 300px; width: 100%;" />
+<img src="../assets/logo.png" alt="Pulzar Logo" style="300px" width="300px" />
 
 # 🚀 Next-Generation TypeScript Framework
 
