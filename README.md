@@ -4,7 +4,7 @@
 
 <img src="./assets/logo.png" alt="Pulzar Logo" style="300px" width="300px" />
 
-# 🚀 Next-Generation TypeScript Framework
+# 🚀 Next-Generation Node.js Framework
 
 ### **Ultra-Fast • Edge-First • Zero-Reflection • Production-Ready**
 
@@ -32,7 +32,6 @@
 
 <table>
 <tr>
-<td width="50%">
 
 ---
 
@@ -182,7 +181,6 @@ graph TB
 
 <table>
 <tr>
-<td width="33%">
 
 ---
 
